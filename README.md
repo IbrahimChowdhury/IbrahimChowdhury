@@ -5,6 +5,7 @@
 
 <br>
 
+
 <div align="center">
   Full Stack Developer passionate about <strong>integrating AI</strong> (LLMs, image generation) into web apps, building with <strong>Next.js/Node.js</strong>, and implementing <strong>modern DevOps</strong> (CI/CD, Docker, Vercel, Render). I turn ideas into production‑ready systems with clean code and a future‑first mindset.
 </div>
