@@ -80,16 +80,6 @@ Gamified task manager inspired by “Solo Leveling.” Create quests, earn rank 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=radical" />
 </p>
 
-<!-- Current Streak & Contribution Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimChowdhury&theme=radical" alt="Ibrahim's streak" />
-</p>
-
-<!-- Contribution Graph (last 31 days or custom) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimChowdhury&theme=radical&bg_color=141321&color=FE428E&line=F85D7F&point=FE428E&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
