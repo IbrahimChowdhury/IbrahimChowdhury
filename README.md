@@ -1,88 +1,93 @@
-<!-- Typing header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=500&lines=Ibrahim+Chowdhury;Full+Stack+Developer;AI+%2B+Web+Builder;Building+the+Future" alt="Typing SVG" />
-</div>
+# 🪐 Greetings, Challenger! I'm Ibrahim Chowdhury
 
-<br>
-
-<!-- Short bio -->
-<div align="center">
-  Crafting **scalable**, **AI‑infused** web experiences.<br>
-  Currently shaping the future with **Next.js**, **Node**, and **AI co‑pilots**.
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://ibrahim1000.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:ibrahimchowdhury1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</div>
-
----
-
-<!-- Tech stack -->
-### ⚡ **Core Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,mongodb,postgres,supabase,firebase,vercel&theme=dark" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimChowdhury&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
-### 🤖 **AI Toolkit**
-<p align="center">
-  <code>Claude</code> <code>OpenCode</code> <code>Copilot</code> <code>Cursor</code> <code>Antigravity</code> <code>Kiro AI</code>
+<p align="left">
+  <a href="https://ibrahim1000.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-⚡%20Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🌐%20Connect-blue?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ibrahimchowdhury1000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-📬%20Reach%20Me-📈?style=for-the-badge&color=ea4335" alt="Email" />
+  </a>
 </p>
 
 ---
 
-<!-- Projects -->
-### 🛸 **Featured**
-<table>
-  <tr>
-    <td><strong>School Management System</strong><br>Dynamic school platform + admin panel.</td>
-    <td align="right">
-      <a href="https://iulabsc.com">Live</a> · <a href="https://github.com/IbrahimChowdhury/iu-school">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Personal Portfolio</strong><br>Admin‑powered portfolio with CMS.</td>
-    <td align="right">
-      <a href="https://ibrahim1000.vercel.app">Live</a> · <a href="https://github.com/IbrahimChowdhury/ibrahimNewPortfolio">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>ML Assignment Help</strong><br>Commercial platform + real‑time chat.</td>
-    <td align="right">
-      <a href="https://ds-assignment-hub.vercel.app">Live</a> · <a href="https://github.com/IbrahimChowdhury/DS-Assignment-Hub">GitHub</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Gamify Your Life</strong><br>Solo Leveling inspired task manager.</td>
-    <td align="right">
-      <a href="https://sololeveling101.vercel.app">Live</a> · <a href="https://github.com/IbrahimChowdhury/solo-leveling-project">GitHub</a>
-    </td>
-  </tr>
-</table>
+### 🚀 About the Architect
+
+I am a **Full Stack Web Developer** and **AI-Assisted Builder**. My core focus is building highly scalable, performant web applications leveraging the modern JavaScript ecosystem. I deeply value clean code architecture, seamless user experiences (UX), and integrating advanced AI tools to hyper-accelerate the development workflow.
+
+- 🌌 **Current Horizon:** ML Assignment Help and real-world, production-ready applications.
+- 🛰️ **Deep Diving Into:** Next.js App Router, tRPC, type-safe architectures, and advanced AI agent integrations.
+- 💡 **Philosophy:** "Let the code be flawless, and the user experience as smooth as butter."
 
 ---
 
-<!-- Certificates -->
-### 🏅 **Certifications**
+## 🛠️ The Tech Matrix
+
+### 🌌 Frontend Engineering
+`Next.js` `React.js` `TailwindCSS` `Framer Motion` `Redux Toolkit` `ShadCN UI` `TypeScript`
+
+### ⚡ Backend & Cloud Infrastructure
+`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Supabase` `Firebase`
+
+### 🤖 AI-Augmented Workflow
+`Cursor` `GitHub Copilot` `Claude 3.5 Sonnet` `OpenCode`
+
+### 🚢 DevOps & Deployment
+`Vercel` `Netlify` `Render` `MongoDB Atlas`
+
+---
+
+## 🏆 Featured Nexus Projects
+
+### 📘 School Management System
+> **Live:** [iulabsc.com](https://iulabsc.com) | **Repository:** [iu-school](https://github.com/IbrahimChowdhury/iu-school)
+* A real-world web platform built for Islamic University Laboratory School & College.
+* Integrated dynamic content access and a robust admin panel that successfully **automated 20% of daily institutional workflows**.
+
+### 🤖 ML Assignment Help (DS Assignment Hub)
+> **Live:** [ds-assignment-hub.vercel.app](https://ds-assignment-hub.vercel.app) | **Repository:** [DS-Assignment-Hub](https://github.com/IbrahimChowdhury/DS-Assignment-Hub)
+* A commercial platform designed for seamless client task submission and real-time tracking.
+* Features a real-time messaging chat system and an intuitive dashboard tailored for administrators.
+
+### 🎮 Solo Leveling – Gamify Your Life
+> **Live:** [sololeveling101.vercel.app](https://sololeveling101.vercel.app) | **Repository:** [solo-leveling-project](https://github.com/IbrahimChowdhury/solo-leveling-project)
+* A gamified task management application inspired by the popular anime "Solo Leveling".
+* A futuristic concept where users complete daily quests, earn rank points, and upgrade real-life attributes.
+
+### 💼 Personal Portfolio with Admin Dashboard
+> **Live:** [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app) | **Repository:** [ibrahimNewPortfolio](https://github.com/IbrahimChowdhury/ibrahimNewPortfolio)
+* A premium, modern developer portfolio coupled with a dedicated custom admin dashboard to dynamically manage projects, skills, and certifications.
+
+---
+
+## 📜 Verified Credentials
+
+* **Ostad Full Stack Web Development (MERN)** – Completion Certificate | [Verify](https://ostad.app/share/certificate/c22467-ibrahim-chowdhury)
+* **Ostad Full Stack Web Development (MERN)** – Assessment Certificate | [Verify](https://ostad.app/share/certificate/c25296-ibrahim-chowdhury)
+
+---
+
+## 📊 Deep Space Metrics
+
 <p align="center">
-  <a href="https://ostad.app/share/certificate/c22467-ibrahim-chowdhury">Ostad Completion</a> · 
-  <a href="https://ostad.app/share/certificate/c25296-ibrahim-chowdhury">Ostad Assessment</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Ibrahim's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=buefy&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimChowdhury&theme=buefy&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- Stats -->
-### 📈 **Signal**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" width="45%" />
+  🪐 <i>"The best way to predict the future is to invent it."</i> <br>
+  <b>Let's build something extraordinary together!</b>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimChowdhury&label=Views&color=00FFCC&style=flat" alt="profile views" />
-</div>
