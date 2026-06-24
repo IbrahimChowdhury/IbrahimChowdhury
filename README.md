@@ -1,89 +1,151 @@
-# IbrahimChowdhury-IbrahimChowdhury
-# Hi 👋, I'm Ibrahim Chowdhury
+<!-- Banner SVG (Animated) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ibrahim+Chowdhury;Full+Stack+Web+Developer;AI+%2B+Web+Builder;Building+the+Future%2C+One+App+at+a+Time" alt="Typing SVG" />
+</p>
 
-### 🚀 Full Stack Web Developer | AI-Assisted Builder
+<!-- Futuristic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-I build **scalable, high-performance web applications** with modern JavaScript technologies.  
-I love clean code, seamless UX, and leveraging AI tools to speed up development.
+## 🧑‍💻 **Who am I?**
 
-- 🔭 **Currently working on:** ML Assignment Help & Real-world projects  
-- 🌱 **Exploring:** Next.js App Router, tRPC, and advanced AI integrations  
-- 👨‍💻 All of my projects are available at [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app)  
-- 📫 Reach me: **ibrahimchowdhury1000@gmail.com**  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000?logo=shadcnui&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**AI-Assisted Development**  
-![Claude](https://img.shields.io/badge/Claude-000?logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000?logo=openai&logoColor=white)
-![Kiro AI](https://img.shields.io/badge/Kiro_AI-000?logo=kiro&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000?logo=antigravity&logoColor=white)
-
-**DevOps & Deployment**  
-![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?logo=mongodb&logoColor=white)
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        Full Stack Web Developer with a <strong>futuristic mindset</strong> — building blazing-fast, AI-integrated, and scalable web experiences. I turn coffee into clean code and wireframes into production-grade apps.<br><br>
+        ✅ <strong>Currently:</strong> Developing ML Assignment Help & exploring Next.js 14 + AI.<br>
+        ✅ <strong>Ask me about:</strong> React, Next.js, Node.js, MongoDB, AI tools in dev.<br>
+        ✅ <strong>Fun fact:</strong> I use AI as my co-pilot, not to replace me, but to accelerate my creativity.<br>
+        ✅ <strong>Portfolio:</strong> <a href="https://ibrahim1000.vercel.app">ibrahim1000.vercel.app</a>
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/user-attachments/assets/...(your-own-avatar-gif-or-futuristic-illustration)" width="100%" alt="Coding illustration"/>
+      <!-- তুমি এখানে নিজের একটি প্রফেশনাল জিফ বা ইলাস্ট্রেশন বসাতে পারো, যেমন গিটহাবের কোনো কুল কোডিং অ্যানিমেশন -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Featured Projects
+## 🛸 **Futuristic Tech Stack**
 
-### 📘 School Management System
-*Live: [iulabsc.com](https://iulabsc.com) | GitHub: [iu-school](https://github.com/IbrahimChowdhury/iu-school)*  
-A real‑world system for Islamic University Laboratory School & College with dynamic content access and an admin panel that **automated 20% of workflows**.
+<details open>
+  <summary><b>🌐 Frontend</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  </p>
+</details>
 
-### 💼 Personal Portfolio with Admin Dashboard
-*Live: [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app) | GitHub: [ibrahimNewPortfolio](https://github.com/IbrahimChowdhury/ibrahimNewPortfolio)*  
-Modern portfolio with a dedicated dashboard to manage all content dynamically — projects, skills, and certificates.
+<details open>
+  <summary><b>⚙️ Backend & Database</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+</details>
 
-### 🤖 ML Assignment Help
-*Live: [ds-assignment-hub.vercel.app](https://ds-assignment-hub.vercel.app) | GitHub: [DS-Assignment-Hub](https://github.com/IbrahimChowdhury/DS-Assignment-Hub)*  
-A commercial platform where clients submit tasks, and admin manages, tracks, and communicates via real‑time chat.
-
-### 🎮 Solo Leveling – Gamify Your Life
-*Live: [sololeveling101.vercel.app](https://sololeveling101.vercel.app) | GitHub: [solo-leveling-project](https://github.com/IbrahimChowdhury/solo-leveling-project)*  
-Gamified task manager inspired by “Solo Leveling.” Create quests, earn rank points, and improve body & mind.
+<details open>
+  <summary><b>🤖 AI-Assisted Development</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kiro_AI-000000?style=for-the-badge&logo=kiro&logoColor=white" />
+    <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white" />
+  </p>
+</details>
 
 ---
 
-## 📜 Certifications
+## 🚀 **Featured Projects**
 
-- **Ostad Full Stack Web Development (MERN)** – Completion Certificate | [View](https://ostad.app/share/certificate/c22467-ibrahim-chowdhury)  
-- **Ostad Full Stack Web Development (MERN)** – Assessment Certificate | [View](https://ostad.app/share/certificate/c25296-ibrahim-chowdhury)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📘 School Management System</h3>
+      <p>Real‑world system for Islamic University Lab School & College. Dynamic content access & admin panel that automated 20% workflows.</p>
+      <p>
+        <a href="https://iulabsc.com/"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/IbrahimChowdhury/iu-school"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💼 Personal Portfolio</h3>
+      <p>Modern portfolio with dedicated admin dashboard to manage projects, skills, and certificates dynamically.</p>
+      <p>
+        <a href="https://ibrahim1000.vercel.app/"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/IbrahimChowdhury/ibrahimNewPortfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 ML Assignment Help</h3>
+      <p>Commercial platform for assignment services with real‑time chat & admin control.</p>
+      <p>
+        <a href="https://ds-assignment-hub.vercel.app/"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/IbrahimChowdhury/DS-Assignment-Hub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🎮 Solo Leveling - Gamify Your Life</h3>
+      <p>Gamified task manager inspired by “Solo Leveling.” Quests, rank ups, and stat boosts.</p>
+      <p>
+        <a href="https://sololeveling101.vercel.app/"><img src="https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/IbrahimChowdhury/solo-leveling-project"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 **Certifications**
+
+- **Ostad Full Stack Web Development (MERN)** – Completion Certificate  
+  [![View](https://img.shields.io/badge/View_Certificate-000?style=flat-square&logo=academia&logoColor=white)](https://ostad.app/share/certificate/c22467-ibrahim-chowdhury)
+- **Ostad Full Stack Web Development (MERN)** – Assessment Certificate  
+  [![View](https://img.shields.io/badge/View_Certificate-000?style=flat-square&logo=academia&logoColor=white)](https://ostad.app/share/certificate/c25296-ibrahim-chowdhury)
+
+---
+
+## 📈 **GitHub Galaxy Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimChowdhury&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6E96&currStreakLabel=00FFCC&sideNums=FFFFFF" width="60%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://ibrahim1000.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahimchowdhury1000@gmail.com)
+## 🌐 **Let's Connect!**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ibrahim1000.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:ibrahimchowdhury1000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimChowdhury&label=Profile%20Views&color=00FFCC&style=flat" alt="Profile Views" />
+</p>
