@@ -1,93 +1,88 @@
-# 🪐 Greetings, Challenger! I'm Ibrahim Chowdhury
+# Hi 👋, I'm Ibrahim Chowdhury
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimChowdhury&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
+### 🚀 Full Stack Web Developer | AI-Assisted Builder
 
-<p align="left">
-  <a href="https://ibrahim1000.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-⚡%20Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-🌐%20Connect-blue?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ibrahimchowdhury1000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📬%20Reach%20Me-📈?style=for-the-badge&color=ea4335" alt="Email" />
-  </a>
-</p>
+I build **scalable, high-performance web applications** with modern JavaScript technologies.  
+I love clean code, seamless UX, and leveraging AI tools to speed up development.
+
+- 🔭 **Currently working on:** ML Assignment Help & Real-world projects  
+- 🌱 **Exploring:** Next.js App Router, tRPC, and advanced AI integrations  
+- 👨‍💻 All of my projects are available at [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app)  
+- 📫 Reach me: **ibrahimchowdhury1000@gmail.com**  
 
 ---
 
-### 🚀 About the Architect
+## 🛠️ Tech Stack & Tools
 
-I am a **Full Stack Web Developer** and **AI-Assisted Builder**. My core focus is building highly scalable, performant web applications leveraging the modern JavaScript ecosystem. I deeply value clean code architecture, seamless user experiences (UX), and integrating advanced AI tools to hyper-accelerate the development workflow.
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000?logo=shadcnui&logoColor=white)
 
-- 🌌 **Current Horizon:** ML Assignment Help and real-world, production-ready applications.
-- 🛰️ **Deep Diving Into:** Next.js App Router, tRPC, type-safe architectures, and advanced AI agent integrations.
-- 💡 **Philosophy:** "Let the code be flawless, and the user experience as smooth as butter."
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**AI-Assisted Development**  
+![Claude](https://img.shields.io/badge/Claude-000?logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000?logo=openai&logoColor=white)
+![Kiro AI](https://img.shields.io/badge/Kiro_AI-000?logo=kiro&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000?logo=antigravity&logoColor=white)
+
+**DevOps & Deployment**  
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠️ The Tech Matrix
-
-### 🌌 Frontend Engineering
-`Next.js` `React.js` `TailwindCSS` `Framer Motion` `Redux Toolkit` `ShadCN UI` `TypeScript`
-
-### ⚡ Backend & Cloud Infrastructure
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Supabase` `Firebase`
-
-### 🤖 AI-Augmented Workflow
-`Cursor` `GitHub Copilot` `Claude 3.5 Sonnet` `OpenCode`
-
-### 🚢 DevOps & Deployment
-`Vercel` `Netlify` `Render` `MongoDB Atlas`
-
----
-
-## 🏆 Featured Nexus Projects
+## 🏆 Featured Projects
 
 ### 📘 School Management System
-> **Live:** [iulabsc.com](https://iulabsc.com) | **Repository:** [iu-school](https://github.com/IbrahimChowdhury/iu-school)
-* A real-world web platform built for Islamic University Laboratory School & College.
-* Integrated dynamic content access and a robust admin panel that successfully **automated 20% of daily institutional workflows**.
-
-### 🤖 ML Assignment Help (DS Assignment Hub)
-> **Live:** [ds-assignment-hub.vercel.app](https://ds-assignment-hub.vercel.app) | **Repository:** [DS-Assignment-Hub](https://github.com/IbrahimChowdhury/DS-Assignment-Hub)
-* A commercial platform designed for seamless client task submission and real-time tracking.
-* Features a real-time messaging chat system and an intuitive dashboard tailored for administrators.
-
-### 🎮 Solo Leveling – Gamify Your Life
-> **Live:** [sololeveling101.vercel.app](https://sololeveling101.vercel.app) | **Repository:** [solo-leveling-project](https://github.com/IbrahimChowdhury/solo-leveling-project)
-* A gamified task management application inspired by the popular anime "Solo Leveling".
-* A futuristic concept where users complete daily quests, earn rank points, and upgrade real-life attributes.
+*Live: [iulabsc.com](https://iulabsc.com) | GitHub: [iu-school](https://github.com/IbrahimChowdhury/iu-school)*  
+A real‑world system for Islamic University Laboratory School & College with dynamic content access and an admin panel that **automated 20% of workflows**.
 
 ### 💼 Personal Portfolio with Admin Dashboard
-> **Live:** [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app) | **Repository:** [ibrahimNewPortfolio](https://github.com/IbrahimChowdhury/ibrahimNewPortfolio)
-* A premium, modern developer portfolio coupled with a dedicated custom admin dashboard to dynamically manage projects, skills, and certifications.
+*Live: [ibrahim1000.vercel.app](https://ibrahim1000.vercel.app) | GitHub: [ibrahimNewPortfolio](https://github.com/IbrahimChowdhury/ibrahimNewPortfolio)*  
+Modern portfolio with a dedicated dashboard to manage all content dynamically — projects, skills, and certificates.
+
+### 🤖 ML Assignment Help
+*Live: [ds-assignment-hub.vercel.app](https://ds-assignment-hub.vercel.app) | GitHub: [DS-Assignment-Hub](https://github.com/IbrahimChowdhury/DS-Assignment-Hub)*  
+A commercial platform where clients submit tasks, and admin manages, tracks, and communicates via real‑time chat.
+
+### 🎮 Solo Leveling – Gamify Your Life
+*Live: [sololeveling101.vercel.app](https://sololeveling101.vercel.app) | GitHub: [solo-leveling-project](https://github.com/IbrahimChowdhury/solo-leveling-project)*  
+Gamified task manager inspired by “Solo Leveling.” Create quests, earn rank points, and improve body & mind.
 
 ---
 
-## 📜 Verified Credentials
+## 📜 Certifications
 
-* **Ostad Full Stack Web Development (MERN)** – Completion Certificate | [Verify](https://ostad.app/share/certificate/c22467-ibrahim-chowdhury)
-* **Ostad Full Stack Web Development (MERN)** – Assessment Certificate | [Verify](https://ostad.app/share/certificate/c25296-ibrahim-chowdhury)
+- **Ostad Full Stack Web Development (MERN)** – Completion Certificate | [View](https://ostad.app/share/certificate/c22467-ibrahim-chowdhury)  
+- **Ostad Full Stack Web Development (MERN)** – Assessment Certificate | [View](https://ostad.app/share/certificate/c25296-ibrahim-chowdhury)
 
 ---
 
-## 📊 Deep Space Metrics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Ibrahim's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=buefy&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimChowdhury&theme=buefy&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimChowdhury&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimChowdhury&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<p align="center">
-  🪐 <i>"The best way to predict the future is to invent it."</i> <br>
-  <b>Let's build something extraordinary together!</b>
-</p>
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-chowdhury-b74514240/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://ibrahim1000.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahimchowdhury1000@gmail.com)
